@@ -1,0 +1,68 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\ Files/
+
+# Database files
+*.mdf
+*.ldf
+
+# Log files
+*.log
+
+# Visual Studio working files
+.vs/
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+
+# Mono auto-generated files
+mono_crash.*
+
+# Resharper files
+_ReSharper*/
+*.[rR]e[Ss]harper
+
+# Rider files
+.idea/
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Publish files
+*.publish.xml
+*.wsp
+
+# Backup & hidden files
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+.coveragexml
